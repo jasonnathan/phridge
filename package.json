@@ -22,13 +22,13 @@
   },
   "devDependencies": {
     "chai": "^3.2.0",
-    "chai-as-promised": "^5.1.0",
-    "eslint": "^1.6.0",
-    "eslint-config-peerigon": "^2.0.0",
+    "chai-as-promised": "^6.0.0",
+    "eslint": "^3.14.1",
+    "eslint-config-peerigon": "^9.0.0",
     "getport": "^0.1.0",
     "istanbul": "^0.4.2",
-    "mocha": "^2.2.5",
-    "ps-node": "^0.0.5",
+    "mocha": "^3.2.0",
+    "ps-node": "^0.1.4",
     "sinon": "^1.14.1",
     "sinon-chai": "^2.7.0"
   },
